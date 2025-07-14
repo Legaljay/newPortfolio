@@ -11,12 +11,12 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Legaljay",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1TY9sz6cDPowlULchWePkjA_hKicrVHbu/view?usp=drive_link",
   linkedin:
     "https://www.linkedin.com/in/ayobami-adesina-56aa6299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  twitter: "https://twitter.com/a_ayor",
+  insta: "https://www.instagram.com/",
+  facebook: "https://www.facebook.com/",
 };
 
 export const skills = [
